@@ -1,5 +1,15 @@
-Inventory app
+App de Leitura de livros
 ==================================
+![image](https://github.com/user-attachments/assets/17d1d15c-8dd5-45e5-9aa0-79458ccf3f74)
+
+![image](https://github.com/user-attachments/assets/33b570c1-82d3-4b73-b070-ea0f34c232a5)
+
+![image](https://github.com/user-attachments/assets/bf447dee-d233-49df-91f7-53109601e667)
+
+![image](https://github.com/user-attachments/assets/fc0cfe52-0f35-48a4-bc3d-a28c55e5af82)
+
+![image](https://github.com/user-attachments/assets/e3e139b8-fa0b-4a42-a8a2-456e56ad6d04)
+
 
 Solution code for Android Basics with Compose.
 
